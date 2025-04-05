@@ -1,0 +1,27 @@
+Assertion:
+
+Normally we are doing validation with the help of decision making statement
+but in testng we are having one feature
+i.e: Assertion
+
+We are having 2 types of Assertion:
+1.Hard Assert
+2.Soft Assert
+
+Hard Assert:
+1.In Hard Assert we are having static methods.
+2.if hard assert get failed then it will terminate the execution
+3.in hard assert we are not having any compulsory method.
+
+Soft Assert:
+1.in soft Assert we are having non-static methods.
+2.if softassert will get failed it will not terminate the execution.
+3.in softAssert we are having one compulsory method
+assertAll();
+
+
+
+
+
+
+
